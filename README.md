@@ -47,7 +47,7 @@ public interface DownloadListener {
 
 ## Task Hierarchy
 
-![](./readme-imgs/Task Hierarchy.png)
+![](/readme-imgs/Task Hierarchy.png)
 
 ## Download Flow
 
