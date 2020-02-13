@@ -47,7 +47,7 @@ public interface DownloadListener {
 
 ## Task Hierarchy
 
-![](/readme-imgs/Task Hierarchy.png)
+![](https://github.com/booknu/Multi-Thread-Downloader/blob/master/readme-imgs/Task%20Hierarchy.png)
 
 ## Download Flow
 
